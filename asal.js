@@ -17,9 +17,9 @@ for(let i=2 ; i<=Math.floor(sayi/2); i++){
     }
 }
 if(sonuc){
-    alert(sayi+"asaldır.");
+    alert(sayi+" asaldır.");
 }else{
-    alert(sayi+ "asal değildir.");
+    alert(sayi+ " asal değildir.");
 }
     
     
